@@ -14,12 +14,12 @@ namespace ABMCarrera
     public partial class frmNuevaCarrera : Form
     {
         DBHelper gestor;
-        Carrera nuevaCarrera;
+        Carrea nuevaCarrera;
 
         public frmNuevaCarrera()
         {
             InitializeComponent();
-            nuevaCarrera = new Carrera();
+            nuevaCarrera = new Carrea();
             gestor = new DBHelper();
             
 
@@ -124,7 +124,7 @@ namespace ABMCarrera
 
         private void dgvDetalle_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (dgvDetalle.CurrentCell.ColumnIndex == 4)
+            if (dgvDetalle.CurrentCell.ColumnIndex == 3)
             {
                 nuevaCarrera.QuitarDetalle(dgvDetalle.CurrentRow.Index);
                 dgvDetalle.Rows.RemoveAt(dgvDetalle.CurrentRow.Index);

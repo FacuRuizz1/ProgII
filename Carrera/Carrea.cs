@@ -6,27 +6,33 @@ using System.Threading.Tasks;
 
 namespace ABMCarrera
 {
-    public partial class Carrera
+    public class Carrea
     {
         public int IdCarrera { get; set; }
-        public string NombreCarrera { get; set; }
+        public string NomCarrera { get; set; }
         public List<DetalleCarrera> ListaDetalles { get; set; }
 
-        //public Carrera()
-        //{
-        //    ListaDetalles = new List<DetalleCarrera>();
-        //}
-        public Carrera(int idCarrera, string nombreCarrera)
+        public Carrea()
+        {
+            ListaDetalles = new List<DetalleCarrera>();
+        }
+        public Carrea(int idCarrera,string nomCarrera)
         {
             IdCarrera = idCarrera;
-            NombreCarrera = nombreCarrera;
+            NomCarrera = nomCarrera;
             ListaDetalles = new List<DetalleCarrera>();
         }
 
-        public void AgregarDetalle(DetalleCarrera detalleCarrera)
+        public void AgregarCarrera(DetalleCarrera detalleCarrera)
         {
             ListaDetalles.Add(detalleCarrera);
         }
+
+        public void AgregarDetalle(DetalleCarrera detalleCarrra)
+        {
+            ListaDetalles.Add(detalleCarrra);
+        }
+
         public void QuitarDetalle(int indice)
         {
             ListaDetalles.RemoveAt(indice);
