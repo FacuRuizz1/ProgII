@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ABMCarrera2\bin\Debug\ABMCarrera2.exe.config
+C:\Users\Usuario\source\repos\ABMCarrera2\bin\Debug\ABMCarrera2.exe
+C:\Users\Usuario\source\repos\ABMCarrera2\bin\Debug\ABMCarrera2.pdb
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.Form1.resources
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.Vistas.ConsultarCarrera.resources
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.Vistas.DetalleCarrera.resources
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.Vistas.ModificarCarrera.resources
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.Vistas.NuevaCarrera.resources
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.exe
+C:\Users\Usuario\source\repos\ABMCarrera2\obj\Debug\ABMCarrera2.pdb

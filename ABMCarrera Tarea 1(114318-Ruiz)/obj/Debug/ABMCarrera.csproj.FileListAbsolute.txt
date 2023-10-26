@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ABMCarrera\bin\Debug\ABMCarrera.exe.config
+C:\Users\Usuario\source\repos\ABMCarrera\bin\Debug\ABMCarrera.exe
+C:\Users\Usuario\source\repos\ABMCarrera\bin\Debug\ABMCarrera.pdb
+C:\Users\Usuario\source\repos\ABMCarrera\obj\Debug\ABMCarrera.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ABMCarrera\obj\Debug\ABMCarrera.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ABMCarrera\obj\Debug\ABMCarrera.Vistas.FrmNuevaCarrera.resources
+C:\Users\Usuario\source\repos\ABMCarrera\obj\Debug\ABMCarrera.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ABMCarrera\obj\Debug\ABMCarrera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ABMCarrera\obj\Debug\ABMCarrera.exe
+C:\Users\Usuario\source\repos\ABMCarrera\obj\Debug\ABMCarrera.pdb
+C:\Users\Usuario\source\repos\ABMCarrera\obj\Debug\ABMCarrera.Form1.resources
